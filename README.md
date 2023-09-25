@@ -1,5 +1,5 @@
  <h1 align="center">
-    Oi, eu sou o 
+    Olá, eu sou 
     <a href="#">Ézio Enrique</a>
   </h1>
   
@@ -27,10 +27,10 @@
   ##
  
 <div align="center" > 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.instagram.com/enriqueezio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="discordapp.com/users/751548157397041212" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:ezioenrique@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/%C3%A9zio-enrique-878645232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
  ##
@@ -41,10 +41,8 @@ printf("Hello World, Seja Bem Vindo");
 
 ### Interesses:
 
-* Desenvolvimento Android
-* Web
-* Linux
+* Programação Baixo Nível
 * POO
+* Estrutura de Dados
 
-
-[mais exemplos](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+[//]: <> (https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
